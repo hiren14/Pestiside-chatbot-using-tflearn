@@ -1,2 +1,2 @@
-model_checkpoint_path: "/content/AI_ChatBot_Python/model.tflearn"
-all_model_checkpoint_paths: "/content/AI_ChatBot_Python/model.tflearn"
+model_checkpoint_path: "/content/Pestiside-chatbot-using-tflearn/model.tflearn"
+all_model_checkpoint_paths: "/content/Pestiside-chatbot-using-tflearn/model.tflearn"
